@@ -14,7 +14,6 @@ public class test {
                 System.out.println("退出程序");
                 break;
             }
-
             try {
                 if (number < 0) {
                     throw new NegativeNumberException("输入的数字不能为负数！");
