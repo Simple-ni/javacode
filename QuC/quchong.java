@@ -1,4 +1,4 @@
-package BIGthan13.QuC;
+package QuC;
 
 import java.util.ArrayList;
 import java.util.Scanner;

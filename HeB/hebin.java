@@ -1,4 +1,4 @@
-package BIGthan13.HeB;
+package HeB;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class hebin {
